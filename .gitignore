@@ -14,3 +14,6 @@ build
 !/Last Pencil (Python)/task/
 /Last Pencil (Python)/task/*
 !/Last Pencil (Python)/task/game.py
+
+# html lessons
+*.html
